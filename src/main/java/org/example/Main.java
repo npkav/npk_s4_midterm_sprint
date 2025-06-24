@@ -1,6 +1,4 @@
 // Nickolas Kavanagh
-// Semester 4 Midterm Sprint
-// 14/6/2025 - 22/06/2025
 
 package org.example;
 
